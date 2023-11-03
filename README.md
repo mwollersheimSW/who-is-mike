@@ -4,7 +4,7 @@ This document is a chance to share with you how I work and how you can best work
 
 ## About Me
 
-As an R&D Leader in earth observation technology, I am fundamentally driven by:
+As a leader in R&D, I am fundamentally driven by:
 * Solving problems
 * Understanding how things work and making them better
 * Helping everyone to see and appreciate the value of what we make
@@ -15,31 +15,38 @@ I added those last two parts because I've found it's very possible to do a lot o
 
 I love what we do and feel inspired by working with amazing people. I've never felt like the "smartest guy in the room" (just the opposite, usually). I genuinely enjoy working with people and seeing the different skills that people can bring. I feel like I can appreciate a wide variety of perspectives and see the good qualities in anyone. 
 
-I'm an introvert (I think), but I love talking with people. I just need time to recharge the social battery after doing so. I don't think most people would know this about me, I try to hide it.
-
-
 ## Operating Approach
 
+### Meetings and 1:1s
 * It's important to me to stay connected with my teams and to get a better-than-surface-level understanding of the initiatives we have and their progress
 * I like to meet 1:1 with my direct-reports weekly and appreciate when they come prepared to discuss their concerns, what's exciting them right now, where they need help and what their key activities have been
   - Often times our discussions lead to actions and I like to make sure any actions are explicit and clearly assigned to one of us
 * In order to preserve space in my calendar, I prefer to meet 1:1 with others in my team on a less frequent or as-needed basis, and I rely on them to take the initative to set these up when requested
   - I am always happy to have those meetings though! Please ask for them whenever you'd like to talk
-* 
+* Biweekly Team / Product Meetings as appropriate
+  - I am always happy to have those meetings though! Please ask for them whenever you'd like to talk
 
 ## Management Style
+
+* I trust my team and I want you to feel empowered to take initiative and make decisions
+* Of course there are times that we need to talk about something before it happens, and here is my guideline for that
+  - If you 
+* 
+
   
 ## How I Communicate
+
+I'm an introvert (I think), but I love talking with people. I just need time to recharge the social battery after doing so. I don't think most people would know this about me, I try to hide it.
 
 ### Ways to reach me (in priority order):
 
 1. Slack
-2. Text/WhatsApp (number is in slack)
-3. Email
+2. Email
+3. Text / Phone
 
 ### Please reach out
 
-Please always reach out to me on Slack. I would rather you send me a ping than not. I prefer more communication than less. And it is not a bother. Use my office hours for more verbal discussions.
+Please always reach out to me on Slack. I would rather you send me a ping than not. I prefer more communication than less. And it is not a bother. 
 
 ### How to communicate challenges
 
