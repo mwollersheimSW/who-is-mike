@@ -13,7 +13,7 @@ As a leader in R&D, I am fundamentally driven by:
 
 I added the last two because I've found it's very possible to do a lot of the first three things while failing to turn our work into something positive for the world and for the company I work at. It's important to me that what we do connects strongly with making our accomplishments "real" (someone will use it), making our business succeed (someone will buy it) and making a positive change (something was made better because of what we did).
 
-I love what we do and feel inspired by working with amazing people. I genuinely enjoy working with others and seeing the different skills that they bring. I appreciate a wide variety of perspectives and see good qualities in everyone. I never want to be the "smartest person in the room" (just the opposite would be ideal ;)). I'm abitious, motivated to succeed and confident that we can overcome any obstacle if we keep the right attitude.
+I love what we do and feel inspired by working with amazing people. I genuinely enjoy working with others and seeing the different skills that they bring. I appreciate a wide variety of perspectives and see good qualities in everyone. I never want to be the "smartest person in the room" (just the opposite would be ideal ;)). I'm ambitious, motivated to succeed and confident that we can overcome any obstacle if we keep the right attitude.
 
 ## Operating Approach
 
