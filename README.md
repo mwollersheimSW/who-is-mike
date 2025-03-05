@@ -64,7 +64,7 @@ I love what we do and feel inspired by working with amazing people. I genuinely 
   
 ## How I Communicate
 
-I'm an introvert (I think), but I love talking with people. Hearing from you is a delight and I will always enjoy hearing about how you are doing, even peronsally. Since I work asynchronously with most people, I rely heavily on the written word for a lot of my communication. Slack is my weapon of choice. I often wake up to a lot of messages, so apologies if my responses are a bit delayed. If you have something urgent to discuss, you can get my attention by tagging me in a post. I will see those first. If it's REALLY critical and urgent, a tagged DM with the message "FOO BAR" is a bat signal I will see right away. Please use it sparingly ;)
+I'm an introvert (I think), but I love talking with people. Hearing from you is a delight and I will always enjoy hearing about how you are doing, even personally. Since I work asynchronously with most people, I rely heavily on the written word for a lot of my communication. Slack is my weapon of choice. I often wake up to a lot of messages, so apologies if my responses are a bit delayed. If you have something urgent to discuss, you can get my attention by tagging me in a post. I will see those first. If it's REALLY critical and urgent, a tagged DM with the message "FOO BAR" is a bat signal I will see right away. Please use it sparingly ;)
 
 That said, if we have a lot to talk about and if there are multiple people involved, jumping on a Zoom call likely saves us all a fair bit of time.
 
